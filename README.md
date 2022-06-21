@@ -1,2 +1,3 @@
-Item 1
-this will appear on my gitlab
+- Item 1
+- Item 2
+- this will appear on my gitlab
